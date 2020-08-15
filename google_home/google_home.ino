@@ -1,9 +1,9 @@
 #include<ESP8266WiFi.h>
 #include<BlynkSimpleEsp8266.h>
 
-char auth[]="KR1vnSlLKIAEpXKNQPMtuG25Xca-IAYE";
-char ssid[]= "ankan";
-char pass[] = "nevergiveup1998";
+char auth[]="... blynk auth code";
+char ssid[]= "ssid name";
+char pass[] = "...Network Password...";
 
 
 
