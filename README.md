@@ -6,3 +6,6 @@ All you need to change is :
 char auth[]=">>>>>>>>>Blynk Auth Code<<<<<<<<";
 char ssid[]= ">>>> your network name";
 char pass[] = ">>>>>>> Network password<<<<<<<<";
+
+
+And you need an IFTTT account, watch tutorial on youtube how to create an account on IFTTT
